@@ -8,7 +8,7 @@
 
 import React from "react";
 import { StatusBar } from "react-native";
-import TaskScreen from "./src/Screens/LoginFamily/TaskScreen";
+import TaskScreen from "./TaskScreen";
 
 const App = () => {
   return (
